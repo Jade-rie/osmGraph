@@ -1,0 +1,46 @@
+# ninja log v7
+1	10	1778053311006873699	/Users/mac/TDprog/C++/S2/osmGraph copie/build/CMakeFiles/cmake.verify_globs	4a2740b81a292b74
+11	224	1778053311017167605	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rshapes.c.o	bf94ef4103fec801
+12	317	1778053311018065736	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtext.c.o	e95b966ce7a38d86
+13	629	1778053311018704574	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.o	b22bcd588f31a1d9
+13	632	1778053311018893367	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/init.c.o	5b2236ed32b75cc6
+11	634	1778053311016891103	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rcore.c.o	631b3fd364587552
+224	654	1778053311230110605	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/input.c.o	c6e8814922a827c5
+317	760	1778053311322947551	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o	a069b46aac716901
+11	793	1778053311017032979	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rmodels.c.o	63e70333211fddfd
+632	1038	1778053311638212773	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o	3b646d875dfd5c89
+654	1047	1778053311660024010	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o	b1faeceb4c30e31c
+632	1059	1778053311637371017	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.o	9dac501bc7d9e9c2
+634	1060	1778053311639870201	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/window.c.o	550ba6f85abd2730
+793	1118	1778053311798824821	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o	146fe8140af87127
+760	1128	1778053311766158174	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o	60ccd3c25b54019
+1060	1386	1778053312065682243	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o	1cbc8d3443db89da
+1039	1404	1778053312044360385	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o	3e4908f327d8a99f
+11	1410	1778053311016595018	_deps/pugixml-build/CMakeFiles/pugixml-static.dir/src/pugixml.cpp.o	c3021fc48716621f
+1059	1414	1778053312064589194	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o	15675037223a84e9
+1047	1424	1778053312052620568	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o	cc7252b58f4e549
+1128	1492	1778053312134257934	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o	8ce5df37c43ceb4e
+1118	1511	1778053312123586860	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o	80e6a433c34e4b37
+1387	2140	1778053312392510254	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o	ce3ecd5af484ed7b
+13	2155	1778053311018466698	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/rtextures.c.o	7a8202e666c4f745
+11	2182	1778053311016749852	_deps/raylib-build/raylib/CMakeFiles/raylib.dir/raudio.c.o	94c8391b8354e080
+1424	2247	1778053312429882726	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o	2de347d26653af97
+1404	2263	1778053312409627042	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o	dae398e53f9628d2
+1414	2282	1778053312420156241	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o	1fd8bfd11f8c6c96
+1414	2288	1778053312419311068	_deps/raylib-build/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o	34b7be0663355522
+11	2358	1778053311016318766	_deps/glm-build/glm/CMakeFiles/glm.dir/detail/glm.cpp.o	a61641a2b7700611
+1492	3045	1778053312497827746	CMakeFiles/osmGraph_copie.dir/src/commands/draw.cpp.o	f6efdc7ccae19347
+2283	3258	1778053313289004988	CMakeFiles/osmGraph_copie.dir/src/osm/filtering.cpp.o	96cdeff9edb98dab
+3259	3366	1778053314264421111	_deps/glm-build/glm/libglm.a	1bd715d5c852e99d
+1511	3376	1778053312517205383	CMakeFiles/osmGraph_copie.dir/src/commands/exctract.cpp.o	39d38ac468b91e6
+2359	3435	1778053313364553937	CMakeFiles/osmGraph_copie.dir/src/osm/xml.cpp.o	44d6145ef48625b2
+3366	3445	1778053314372263954	_deps/pugixml-build/libpugixml.a	62d8c4ed82fff0ac
+3377	3480	1778053314382293191	_deps/raylib-build/raylib/libraylib.a	3388882954efb45b
+2247	3494	1778053313253016776	CMakeFiles/osmGraph_copie.dir/src/dataStructure/weightedGraph.cpp.o	5cdfb17837420319
+2182	3625	1778053313187556440	CMakeFiles/osmGraph_copie.dir/src/dataStructure/graphUtils.cpp.o	5c17aa657dc478bd
+2288	3647	1778053313293516853	CMakeFiles/osmGraph_copie.dir/src/osm/positionedGraph.cpp.o	a48877c0c5070a03
+3046	3782	1778053314051464569	CMakeFiles/osmGraph_copie.dir/src/utils/pathUtils.cpp.o	732d27cc353185d8
+2145	3967	1778053313150467720	CMakeFiles/osmGraph_copie.dir/src/commands/saveLoad.cpp.o	aa647e2dff5a11fc
+2155	3987	1778053313161174212	CMakeFiles/osmGraph_copie.dir/src/commands/simplify.cpp.o	3646ed22e75ff2bf
+2263	4391	1778053313268681970	CMakeFiles/osmGraph_copie.dir/src/main.cpp.o	a3f7d713ce7efa02
+4391	4536	1778053315397252093	/Users/mac/TDprog/C++/S2/osmGraph copie/bin/Debug/osmGraph_copie	c570fe05ca2ca964

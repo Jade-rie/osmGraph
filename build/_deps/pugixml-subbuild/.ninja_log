@@ -1,0 +1,21 @@
+# ninja log v7
+0	14	1778053297463087226	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-mkdir	cc0ffee6f82b3adc
+0	14	1778053297463087226	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-mkdir	cc0ffee6f82b3adc
+14	752	1778053298201301969	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-download	2fe1a770f8074be
+14	752	1778053298201301969	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-download	2fe1a770f8074be
+752	767	1778053298215987364	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-update	f9b42174c432b41c
+752	767	1778053298215987364	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-update	f9b42174c432b41c
+767	780	1778053298229190290	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-patch	2aba4f35e8905aa8
+767	780	1778053298229190290	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-patch	2aba4f35e8905aa8
+780	794	1778053298243006471	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-configure	e694479f79361db4
+780	794	1778053298243006471	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-configure	e694479f79361db4
+794	807	1778053298256298315	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-build	934489ec54ae035c
+794	807	1778053298256298315	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-build	934489ec54ae035c
+807	820	1778053298269666576	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-install	44101c279be681a5
+807	820	1778053298269666576	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-install	44101c279be681a5
+821	833	1778053298282544583	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-test	a6f415b05010fe7d
+821	833	1778053298282544583	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-test	a6f415b05010fe7d
+833	851	1778053298300507251	CMakeFiles/pugixml-populate-complete	bba87118721f3fb0
+833	851	1778053298300507251	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-done	bba87118721f3fb0
+833	851	1778053298300507251	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/CMakeFiles/pugixml-populate-complete	bba87118721f3fb0
+833	851	1778053298300507251	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-done	bba87118721f3fb0

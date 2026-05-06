@@ -1,0 +1,21 @@
+# ninja log v7
+0	14	1778053299393654287	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-mkdir	67b6d3c5255ff2a0
+0	14	1778053299393654287	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-mkdir	67b6d3c5255ff2a0
+15	882	1778053300261515610	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-download	7d1656a2bdffcbc6
+15	882	1778053300261515610	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-download	7d1656a2bdffcbc6
+882	895	1778053300274651286	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-update	aedd1ee7f81479ff
+882	895	1778053300274651286	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-update	aedd1ee7f81479ff
+895	908	1778053300287527669	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-patch	ac492531e8b6a6ee
+895	908	1778053300287527669	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-patch	ac492531e8b6a6ee
+908	922	1778053300301430267	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-configure	8713038d2d3ce29a
+908	922	1778053300301430267	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-configure	8713038d2d3ce29a
+922	935	1778053300314645610	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-build	a4ffdb4cfa3a6907
+922	935	1778053300314645610	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-build	a4ffdb4cfa3a6907
+935	948	1778053300327367699	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-install	5592df34d09c516f
+935	948	1778053300327367699	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-install	5592df34d09c516f
+948	961	1778053300340489417	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-test	21b6b27a14b22286
+948	961	1778053300340489417	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-test	21b6b27a14b22286
+961	981	1778053300360472141	CMakeFiles/cereal-populate-complete	31e2657c92c910fc
+961	981	1778053300360472141	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-done	31e2657c92c910fc
+961	981	1778053300360472141	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/CMakeFiles/cereal-populate-complete	31e2657c92c910fc
+961	981	1778053300360472141	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-done	31e2657c92c910fc

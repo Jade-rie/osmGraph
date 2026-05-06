@@ -1,0 +1,21 @@
+# ninja log v7
+0	13	1778053298407417713	argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-mkdir	4425d4613c2c91be
+0	13	1778053298407417713	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-mkdir	4425d4613c2c91be
+13	783	1778053299177617223	argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-download	f3d7a26989bebb9a
+13	783	1778053299177617223	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-download	f3d7a26989bebb9a
+783	799	1778053299193053665	argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-update	6ec8717093b74e8e
+783	799	1778053299193053665	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-update	6ec8717093b74e8e
+799	813	1778053299207051181	argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-patch	e88b8bf56a547406
+799	813	1778053299207051181	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-patch	e88b8bf56a547406
+813	828	1778053299222215746	argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-configure	f65057de2544c1e6
+813	828	1778053299222215746	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-configure	f65057de2544c1e6
+828	843	1778053299236772765	argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-build	6a069366a36414c9
+828	843	1778053299236772765	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-build	6a069366a36414c9
+843	857	1778053299251268867	argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-install	5e595ff5443bc1ad
+843	857	1778053299251268867	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-install	5e595ff5443bc1ad
+857	871	1778053299265298424	argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-test	5603fbf8e377b42a
+857	871	1778053299265298424	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-test	5603fbf8e377b42a
+871	889	1778053299283143008	CMakeFiles/argparse-populate-complete	166013b56cb756e9
+871	889	1778053299283143008	argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-done	166013b56cb756e9
+871	889	1778053299283143008	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate-complete	166013b56cb756e9
+871	889	1778053299283143008	/Users/mac/TDprog/C++/S2/osmGraph copie/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-done	166013b56cb756e9
